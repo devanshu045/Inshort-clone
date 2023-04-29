@@ -1,0 +1,15 @@
+.nav-container{
+  
+    display: flex;
+    align-items: center;
+    box-shadow: 0 1px 8px #888888;
+    
+}
+.nav-image{
+    height:20%;
+    width: 10%;
+ 
+}
+.nav-logo{
+    flex: .48;
+}
